@@ -1,6 +1,6 @@
 # BitHub
 
-This repository contains smart contract code for a decentralized application (dApp) called BitHub. Bithub Contribution Tracker is a platform that incentivizes developers to make contributions to open-source projects by rewarding them with Bithub tokens (BTH), an ERC20 token.
+This repository contains smart contract code for a decentralized application (dApp) called BitHub. Bithub is a platform that incentivizes developers to make contributions to open-source projects by rewarding them with Bithub tokens (BTH), an ERC20 token.
 
 ## Contracts
 
